@@ -1,0 +1,21 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "apellido_paterno":"Quinaluisa",
+            "apellido_materno":"Toaquiza",
+            "nombre":"Carlos",
+            "username":"khore",
+            "password":"827ccb0eea8a706c4c34a16891f84e7b"
+        },
+
+        {
+            "id":2,
+            "apellido_paterno":"lolcito",
+            "apellido_materno":"riot",
+            "nombre":"Games",
+            "username":"Riot",
+            "password":"d9798cdf31c02d86b8b81cc119d94836"
+        }
+    ]
+}
